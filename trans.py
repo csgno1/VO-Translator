@@ -1,3 +1,7 @@
+# Before running this script...
+# pip3 install langdetect googletrans==4.0.0-rc1
+#
+
 from langdetect import detect
 from googletrans import Translator
 import time
